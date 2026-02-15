@@ -1,4 +1,4 @@
-### HR Attrition Analysis: Predictive Insights & Retention Strategy
+# HR Attrition Analysis: Predictive Insights & Retention Strategy
 ## 📌 Project Overview
 Employee attrition is a significant financial and operational challenge for any multinational corporation. This project provides an end-to-end data solution to identify the primary drivers of turnover and categorize high-risk employee segments using SQL, Python, and Power BI. 
 
@@ -11,11 +11,11 @@ Power BI: Developed an interactive dashboard for executive-level storytelling.
 ## 📊 Business Insights & Problem Solving
 The analysis identified three critical areas where HR intervention can reduce turnover:
 
-# 1. The Early-Career Gap
+### 1. The Early-Career Gap
 Employees in the 0-1 Years tenure group exhibit the highest attrition rate at 25.96%, compared to just 10.42% for employees with 8+ years of experience. 
-# 2. Burnout Risk Segmentation
+### 2. Burnout Risk Segmentation
 Using SQL logic, I engineered a risk_category to flag employees working Overtime with a Monthly Income below $4,000. This provides a proactive list for HR to address potential burnout before resignation. 
-# 3. Departmental Prioritization
+### 3. Departmental Prioritization
 By applying SQL Window Functions (RANK), I identified that Sales Executives and Laboratory Technicians carry the highest risk rank, signaling a need for department-specific retention roadmaps. 
 
 ## 🧠 Key Learning
