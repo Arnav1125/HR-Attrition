@@ -1,5 +1,5 @@
 ### HR Attrition Analysis: Predictive Insights & Retention Strategy
-##📌 Project Overview
+## 📌 Project Overview
 Employee attrition is a significant financial and operational challenge for any multinational corporation. This project provides an end-to-end data solution to identify the primary drivers of turnover and categorize high-risk employee segments using SQL, Python, and Power BI. 
 
 ## 🛠️ Tech Stack
